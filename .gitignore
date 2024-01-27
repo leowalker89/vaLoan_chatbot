@@ -1,1 +1,4 @@
 .env
+pdfs/
+chromaDB_setup.py
+test_gemini.ipynb
